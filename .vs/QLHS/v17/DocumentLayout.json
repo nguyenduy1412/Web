@@ -1,0 +1,1007 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\favourite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\users_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\users_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\app_start\\sessionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:app_start\\sessionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\odercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\odercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\banner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\banner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\oder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\oder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\banner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\banner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\controllers\\publicshercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\controllers\\publicshercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\publicsher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\publicsher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\publicsher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\publicsher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\publicsher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\publicsher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_booknew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_booknew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_categorychild.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_categorychild.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_booksale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_booksale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_booktrend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_booktrend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\bookdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\bookdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\bookbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\bookbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_categorybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_categorybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_publicsher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_publicsher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\views\\shared\\_authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:views\\shared\\_authorlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\assets\\user\\js\\customjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:assets\\user\\js\\customjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\assets\\user\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:assets\\user\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|d:\\documents\\hk1(2024)\\asp\\qlhs\\assets\\user\\css\\customstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3FBBCFD-9BA8-4202-91A9-5431F4CA58F7}|QLHS.csproj|solutionrelative:assets\\user\\css\\customstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:45:53.107Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ajax\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-29T07:15:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAYwHUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T20:06:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cart.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\cart.cs",
+              "RelativeDocumentMoniker": "Models\\cart.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\cart.cs",
+              "RelativeToolTip": "Models\\cart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T13:49:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "favourite.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\favourite.cs",
+              "RelativeDocumentMoniker": "Models\\favourite.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\favourite.cs",
+              "RelativeToolTip": "Models\\favourite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T20:15:15.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cart.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-25T20:11:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Book.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Book.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Book.cshtml",
+              "RelativeToolTip": "Views\\Home\\Book.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T02:47:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AjaxController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "Controllers\\AjaxController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T20:06:08.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users_roles.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\users_roles.cs",
+              "RelativeDocumentMoniker": "Models\\users_roles.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\users_roles.cs",
+              "RelativeToolTip": "Models\\users_roles.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T20:09:24.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:13:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Views\\Home\\SignUp.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T19:49:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-27T20:02:53.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\users.cs",
+              "RelativeDocumentMoniker": "Models\\users.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\users.cs",
+              "RelativeToolTip": "Models\\users.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAywDEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T20:09:05.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BannerController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BannerController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:13:17.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:32.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Login\\Register.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Login\\Register.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAD4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:37.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T15:44:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T15:46:29.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:24:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T15:43:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessionConfig.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\App_Start\\SessionConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\SessionConfig.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\App_Start\\SessionConfig.cs",
+              "RelativeToolTip": "App_Start\\SessionConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:29:16.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:18:22.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OderController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\OderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OderController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\OderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:14:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Author\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:07:33.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\WarehouseController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\WarehouseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:14:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T11:51:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Banner\\Edit.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Banner\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:17:28.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Banner\\Create.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Banner\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:26.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Oder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Oder\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Oder\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Oder\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:44.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Banner\\Index.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowE0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:15:17.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Publicsher\\Create.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Publicsher\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:10:10.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PublicsherController.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\PublicsherController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\PublicsherController.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Controllers\\PublicsherController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\PublicsherController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T16:08:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Publicsher\\Edit.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Publicsher\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:10:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:07:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Publicsher\\Index.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Publicsher\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Publicsher\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:10:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Author\\Create.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Author\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T16:07:25.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "order_detail.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\order_detail.cs",
+              "RelativeDocumentMoniker": "Models\\order_detail.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\order_detail.cs",
+              "RelativeToolTip": "Models\\order_detail.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T13:43:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Checkout.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Home\\Checkout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAApwHgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T12:30:32.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "orders.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\orders.cs",
+              "RelativeDocumentMoniker": "Models\\orders.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\orders.cs",
+              "RelativeToolTip": "Models\\orders.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T11:28:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T11:50:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_BookNew.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BookNew.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookNew.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BookNew.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAHwAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T01:59:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MyAccount.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\MyAccount.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyAccount.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\MyAccount.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyAccount.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAApwIsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T02:12:51.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_BookTrend.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookTrend.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BookTrend.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookTrend.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BookTrend.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T11:15:28.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_CategoryChild.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_CategoryChild.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CategoryChild.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_CategoryChild.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CategoryChild.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T11:17:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Order.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Order.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Order.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Order.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T10:20:23.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookDetail.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\BookDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BookDetail.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\BookDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\BookDetail.cshtml",
+              "ViewState": "AQIAAAcBAAAAAAAAAAApwMsBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:19:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_BookSale.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookSale.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BookSale.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_BookSale.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BookSale.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T01:42:25.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookByCategory.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\BookByCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BookByCategory.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\BookByCategory.cshtml",
+              "RelativeToolTip": "Views\\Home\\BookByCategory.cshtml",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAL4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:02:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderDetail.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\OrderDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OrderDetail.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\OrderDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\OrderDetail.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T10:18:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Banner.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Banner.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Banner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T10:09:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Category.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Category.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:57:58.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Wishlist.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Wishlist.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Wishlist.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Home\\Wishlist.cshtml",
+              "RelativeToolTip": "Views\\Home\\Wishlist.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-25T20:57:47.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_CategoryBook.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_CategoryBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CategoryBook.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_CategoryBook.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CategoryBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:21:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Publicsher.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Publicsher.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Publicsher.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_Publicsher.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Publicsher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:29:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAADIBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T02:52:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_AuthorList.cshtml",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_AuthorList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AuthorList.cshtml",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Views\\Shared\\_AuthorList.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AuthorList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-26T09:21:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "customjs.js",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\js\\customjs.js",
+              "RelativeDocumentMoniker": "Assets\\User\\js\\customjs.js",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\js\\customjs.js",
+              "RelativeToolTip": "Assets\\User\\js\\customjs.js",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-11-25T20:07:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "categories.cs",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\categories.cs",
+              "RelativeDocumentMoniker": "Models\\categories.cs",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Models\\categories.cs",
+              "RelativeToolTip": "Models\\categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T03:30:39.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\css\\style.css",
+              "RelativeDocumentMoniker": "Assets\\User\\css\\style.css",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\css\\style.css",
+              "RelativeToolTip": "Assets\\User\\css\\style.css",
+              "ViewState": "AQIAAAAcAAAAAAAAAAAgwAwcAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-26T02:04:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "customStyle.css",
+              "DocumentMoniker": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\css\\customStyle.css",
+              "RelativeDocumentMoniker": "Assets\\User\\css\\customStyle.css",
+              "ToolTip": "D:\\Documents\\HK1(2024)\\ASP\\QLHS\\Assets\\User\\css\\customStyle.css",
+              "RelativeToolTip": "Assets\\User\\css\\customStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-26T02:06:47.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
